@@ -1,0 +1,5 @@
+D:/kpi/coursework-pc/course_pc/cmake-build-debug/CMakeFiles/course_pc.dir
+D:/kpi/coursework-pc/course_pc/cmake-build-debug/CMakeFiles/course_pc_user1.dir
+D:/kpi/coursework-pc/course_pc/cmake-build-debug/CMakeFiles/course_py.dir
+D:/kpi/coursework-pc/course_pc/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/kpi/coursework-pc/course_pc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

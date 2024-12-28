@@ -1,0 +1,13 @@
+# ninja log v5
+5	717	7571307546513049	build.ninja	54cf3e8ee4725f9
+144	2340	7571065250001442	CMakeFiles/course_pc.dir/file_manager.cpp.obj	42ebaa1f8a8a729
+0	393	0	CMakeFiles/course_py	8d5d0df3797d379b
+3	6461	7571240770274090	CMakeFiles/course_pc.dir/main.cpp.obj	988aed1f7aa5f2e8
+8	4884	7569261275468639	CMakeFiles/course_pc.dir/user_search.cpp.obj	bb4faeb2c48bc675
+6461	9187	7571240797608100	course_pc.exe	2c51a281a805d208
+210	8596	7571065312418366	CMakeFiles/course_pc.dir/main1.cpp.obj	d17d76f72827b1b3
+3	3984	7571065266427807	CMakeFiles/course_pc.dir/indexer.cpp.obj	959617ac022d47
+94	2152	7571065248118791	CMakeFiles/course_pc.dir/thread_pool.cpp.obj	7dcae169d33efbd8
+6	5536	7571104177148126	CMakeFiles/course_pc_user1.dir/user_search.cpp.obj	7ae9c05492a789b
+5537	6777	7571104189500065	course_pc_user1.exe	e4fd5dd4f97e779
+0	393	0	D:/kpi/coursework-pc/course_pc/cmake-build-debug/CMakeFiles/course_py	8d5d0df3797d379b

@@ -1,0 +1,10 @@
+^D:\KPI\COURSEWORK-PC\COURSE_PC\BUILD\CMAKEFILES\B6E3AEB5CC79BBD53C3F753A7DE14AF2\GENERATE.STAMP.RULE
+setlocal
+"D:\all IDE\cmake\bin\cmake.exe" -SD:/kpi/coursework-pc/course_pc -BD:/kpi/coursework-pc/course_pc/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/kpi/coursework-pc/course_pc/build/course_pc.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

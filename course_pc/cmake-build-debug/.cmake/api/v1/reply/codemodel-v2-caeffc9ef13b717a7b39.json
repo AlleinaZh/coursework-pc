@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "course_pc",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "course_pc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-course_pc-Debug-51f626ac7f23b8c8ad20.json",
+					"name" : "course_pc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "course_pc_user1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-course_pc_user1-Debug-cf4e99fe5b7b3abffb4a.json",
+					"name" : "course_pc_user1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "course_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-course_py-Debug-e8605339f2f7279e2a70.json",
+					"name" : "course_py",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/kpi/coursework-pc/course_pc/cmake-build-debug",
+		"source" : "D:/kpi/coursework-pc/course_pc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

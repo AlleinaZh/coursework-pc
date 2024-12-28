@@ -1,0 +1,20 @@
+^D:\KPI\COURSEWORK-PC\COURSE_PC\BUILD\CMAKEFILES\B6E3AEB5CC79BBD53C3F753A7DE14AF2\COURSE_PY.RULE
+setlocal
+"D:\all IDE\cmake\bin\cmake.exe" -E copy D:/kpi/coursework-pc/course_pc/user_s_a_s.py D:/kpi/coursework-pc/course_pc/build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\KPI\COURSEWORK-PC\COURSE_PC\CMAKELISTS.TXT
+setlocal
+"D:\all IDE\cmake\bin\cmake.exe" -SD:/kpi/coursework-pc/course_pc -BD:/kpi/coursework-pc/course_pc/build --check-stamp-file D:/kpi/coursework-pc/course_pc/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

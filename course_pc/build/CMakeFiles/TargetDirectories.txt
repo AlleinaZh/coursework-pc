@@ -1,0 +1,5 @@
+D:/kpi/coursework-pc/course_pc/build/CMakeFiles/course_pc.dir
+D:/kpi/coursework-pc/course_pc/build/CMakeFiles/course_pc_user1.dir
+D:/kpi/coursework-pc/course_pc/build/CMakeFiles/course_py.dir
+D:/kpi/coursework-pc/course_pc/build/CMakeFiles/ALL_BUILD.dir
+D:/kpi/coursework-pc/course_pc/build/CMakeFiles/ZERO_CHECK.dir

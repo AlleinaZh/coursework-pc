@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\kpi\coursework-pc\course_pc\build\CMakeFiles\b6e3aeb5cc79bbd53c3f753a7de14af2\course_py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\kpi\coursework-pc\course_pc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\kpi\coursework-pc\course_pc\build\CMakeFiles\course_py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{77FC511D-069F-3C99-A174-CD4D601C91C6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
